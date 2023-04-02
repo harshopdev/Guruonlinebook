@@ -491,9 +491,6 @@ transform: translate(0px,-5px);
 .md_wheels .md_wheels_inn .md_wheels_con {
 	margin: 0 0 -120px;
 }
-body > div {
-	overflow: hidden;
-}
 .md_wheels .md_wheels_inn .md_wheels_con {
 	width: 100%;
 	order: 0;text-align: center;
